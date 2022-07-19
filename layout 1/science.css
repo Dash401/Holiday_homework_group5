@@ -1,0 +1,11 @@
+.d{
+    padding-left: 15%;
+    padding-bottom: 0%;
+    margin: 0%;
+    padding-top: 0%;
+    list-style-type: disc;
+    font-size: 20px;
+}
+body{
+    background-color: lightgreen;
+}

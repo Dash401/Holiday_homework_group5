@@ -1,0 +1,31 @@
+li{
+    list-style-type: none;
+    float:left;
+    padding: 10px;
+}
+.btn-group{
+    left: 40%;
+}
+li{
+    list-style-type: none;
+    float:left;
+    padding: 10px;
+}
+.btn-group{
+    left: 40%;
+}
+li.nav-item{
+    font-style: italic;
+    color: yellow;
+}
+li :hover{
+    font-size: 18px;
+    transition-duration: 0.5s;
+    color: red;
+}
+h1{
+    color: white;
+}
+h2{
+    color:bisque
+}
